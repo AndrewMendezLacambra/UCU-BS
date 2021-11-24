@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232028146372",
+    "project_id": "ucu-bs-d8ba7",
+    "storage_bucket": "ucu-bs-d8ba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232028146372:android:607d4d16d1a32c2ae3d791",
+        "android_client_info": {
+          "package_name": "com.ucu.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232028146372-9ctcjnm1q0kdqpbjbiap63i4pjsdg5eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjRpFReh5R-g4vq6v42yTbw5lN_CF5POE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232028146372-9ctcjnm1q0kdqpbjbiap63i4pjsdg5eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
